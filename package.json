@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.27.32",
+  "devDependencies": {
+    "@cubejs-backend/elasticsearch-driver": "^0.27.32",
+    "@cubejs-backend/server": "^0.27.32"
+  }
+}
